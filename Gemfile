@@ -3,7 +3,6 @@ source 'http://rubygems.org'
 # Core gems:
 gem 'rails', '3.2.8'
 gem 'thin', '1.3.1'
-gem 'sqlite3'
 gem 'roo'
 
 # Gems used only for assets and not required in production environments by default.
@@ -24,6 +23,7 @@ group :assets do
 end
 
 group :production do
+  gem 'pg'
   gem 'execjs'
   gem 'therubyracer', :require => 'v8', :platform => :ruby
 end
@@ -37,6 +37,7 @@ end
 
 group :development do
   gem 'quiet_assets' # Don't show full asset pipeline logging in dev
+  gem 'sqlite3'
 end
 
 # Deploy with Capistrano

@@ -7,7 +7,7 @@ class ApplicationController < ActionController::Base
   
   helper :all # include all helpers, all the time
   
-  before_filter :authenticate_user!
+  #before_filter :authenticate_user!
   
   def layout_by_resource
     if devise_controller? && resource_name == :client
