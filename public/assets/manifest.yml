@@ -144,7 +144,7 @@ icons.png: icons-53aa3dbe1dc368206a34791d1de8566c.png
 !binary "dHJhY2tpbmcuanBn": tracking-bc2eedca0fccd46020f4397e7cded050.jpg
 !binary "YXBwbGljYXRpb24uanM=": application-ba656b92c847c4ae301f43d26a694eee.js
 !binary "YXBwbGljYXRpb24uY3Nz": application-bf82caef5e2fd249b5c773895bf64a1f.css
-!binary "Y2xpZW50cy5jc3M=": clients-7270767b2a9e9fff880aa5de378ca791.css
+!binary "Y2xpZW50cy5jc3M=": clients-be3fb78dd03309bc40c12ffa34e0ed37.css
 !binary "bGltcy5jc3M=": lims-241e06e9cfdca50334ff23f3ca742554.css
 !binary "anN0cmVlLXRoZW1lcy9hcHBsZS9iZy5qcGc=": jstree-themes/apple/bg-a0c590d938a19e85eedc303666d78d40.jpg
 !binary "anN0cmVlLXRoZW1lcy9hcHBsZS9kLnBuZw==": jstree-themes/apple/d-d0bf10d26afcd4ee55540a74e320655e.png
@@ -1417,3 +1417,5 @@ icons.png: icons-53aa3dbe1dc368206a34791d1de8566c.png
 !binary "anF1ZXJ5LXVpL3VpLWljb25zXzQ1NDU0NV8yNTZ4MjQwLnBuZw==": jquery-ui/ui-icons_454545_256x240-17e6740beb176dd87da44be76c94bb47.png
 !binary "anF1ZXJ5LXVpL3VpLWljb25zXzg4ODg4OF8yNTZ4MjQwLnBuZw==": jquery-ui/ui-icons_888888_256x240-5b928d6b862809eb8130d7b7e0b51a1d.png
 !binary "anF1ZXJ5LXVpL3VpLWljb25zX2NkMGEwYV8yNTZ4MjQwLnBuZw==": jquery-ui/ui-icons_cd0a0a_256x240-635d34cf8bf22d711a729017ab9aaebe.png
+!binary "Z2x5cGhpY29ucy1oYWxmbGluZ3Mtd2hpdGUucG5n": glyphicons-halflings-white-13553a5bf21ae3cc374006592488ec64.png
+!binary "Z2x5cGhpY29ucy1oYWxmbGluZ3MucG5n": glyphicons-halflings-ab3144065a860d198f1d7d9a4882640c.png
