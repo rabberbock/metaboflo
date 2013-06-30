@@ -152,7 +152,7 @@ class SampleManifest < ActiveRecord::Base
   # return the new filename.
   def new_file_name
      name = "sample_manifest_#{self.id}.xlsm"
-     dir = File.dirname(file.path)
+     dir = 'sample_manifests'
      file_path = "#{dir}/#{name}"
      File.rename(file.path,file_path)
      name
