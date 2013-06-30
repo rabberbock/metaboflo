@@ -23,7 +23,7 @@ group :assets do
 end
 
 group :production do
-  gem 'heroku'
+  
   gem 'pg'
   gem 'execjs'
   gem 'therubyracer', :require => 'v8', :platform => :ruby
